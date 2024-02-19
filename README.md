@@ -19,6 +19,20 @@
 <a href="https://www.instagram.com/hfagundesz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfagundes" height="30" width="40" /></a>
 </p>
 
+<p align="left" font-style="bold">
+📚 Aprendizado Contínuo:
+
+Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
+Participante ativo de comunidades de desenvolvedores e eventos relacionados à programação.
+
+  🎯 Objetivos Futuros:
+
+Expandir minha compreensão em desenvolvimento de software.
+Colaborar em projetos de código aberto.
+Contribuir para a comunidade de desenvolvedores.
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado! Estou sempre aberto a colaborações e feedback construtivo. 😊
+</p>
+
 <p>
 <img align="right" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="500" height="320">
 </p>
