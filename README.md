@@ -34,8 +34,8 @@ Contribuir para a comunidade de desenvolvedores.
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado! Estou sempre aberto a colaborações e feedback construtivo. 😊
 
 
-<p align="right">
-<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="500" height="320">
+<p >
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 </p>
 
 
