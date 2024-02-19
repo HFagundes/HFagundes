@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/hfagundesz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfagundes" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex" align-items="center">
 <p align="left"  font-style="bold">
 📚 Aprendizado Contínuo:
 
