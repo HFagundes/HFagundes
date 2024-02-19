@@ -26,7 +26,7 @@
 <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="500" height="320">
 </p>
 
-<p style="flex=1">
+<p style="flex: 1">
   📚 Aprendizado Contínuo:
 
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
