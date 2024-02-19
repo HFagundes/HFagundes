@@ -8,3 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HFagundes&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=00bfff&bg_color=0d1117"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFagundes&layout=compact&hide_border=true&title_color=8A2BE2&text_color=00bfff&bg_color=0d1117" />
 </div>
+
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
