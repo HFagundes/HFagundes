@@ -10,5 +10,5 @@
 </div>
 
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS]([https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ficones.pro%2Fpt%2Ficone-css-3-simbolo-png%2F&psig=AOvVaw25Mrt0M-uUe8XOo0uF5XES&ust=1708391968580000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCz_JOetoQDFQAAAAAdAAAAABAE)https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ficones.pro%2Fpt%2Ficone-css-3-simbolo-png%2F&psig=AOvVaw25Mrt0M-uUe8XOo0uF5XES&ust=1708391968580000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCz_JOetoQDFQAAAAAdAAAAABAE)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
